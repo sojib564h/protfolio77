@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aeo-sojib.futureall.xyz/sitemap.xml
+Sitemap: https://answer-engine-optimization-sojib.futureall.xyz/sitemap.xml
