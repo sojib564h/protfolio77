@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sojib564h.github.io/prot/sitemap.xml
+Sitemap: https://algorithmoptixit.futureall.xyz/sitemap.xml
