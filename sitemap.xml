@@ -5,25 +5,4 @@
     <loc>https://algorithmoptixit.futureall.xyz/</loc>
     <priority>1.00</priority>
   </url>
-
-  <url>
-    <loc>https://algorithmoptixit.futureall.xyz/#services</loc>
-    <priority>0.90</priority>
-  </url>
-
-  <url>
-    <loc>https://algorithmoptixit.futureall.xyz/#about</loc>
-    <priority>0.85</priority>
-  </url>
-
-  <url>
-    <loc>https://algorithmoptixit.futureall.xyz/#portfolio</loc>
-    <priority>0.85</priority>
-  </url>
-
-  <url>
-    <loc>https://algorithmoptixit.futureall.xyz/#contact</loc>
-    <priority>0.80</priority>
-  </url>
-
 </urlset>
